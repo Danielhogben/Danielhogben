@@ -102,7 +102,7 @@ Self-hosted AI agent platform with **local-first** architecture.
 
 | Machine | Specs | Role |
 |---------|-------|------|
-| **Pop!_OS Workstation** | RTX 3050, 64GB RAM | Ollama, Unsloth, game dev |
+| **Manjaro Workstation** | RTX 3050, 64GB RAM | Ollama, Unsloth, game dev |
 | **Ubuntu Server** | 32GB RAM | Nextcloud, Rocket.Chat, Prometheus, RSMod |
 | **Raspberry Pi 4B** | 8GB RAM | Lightweight AI, TFT28 display, home automation |
 
